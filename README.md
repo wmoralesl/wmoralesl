@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🛠️ Tecnologías y herramientas:
+- 🔹 Python | Django | JavaScript | Vue.js
+- 🔹 Ant Design | Bootstrap | TailwindCSS
+- 🔹 Git | GitHub | Docker
+
+### 📈 Estadísticas de GitHub:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wmoralesl&show_icons=true&theme=radical)
+
+### 📫 Contacto:
+[LinkedIn](https://linkedin.com/in/tu-perfil) | [Twitter](https://twitter.com/tu-usuario) | ✉️ wilsonm57wm@gmail.com
