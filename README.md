@@ -46,4 +46,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wmoralesl&bg_color=000000&color=58a6ff&line=FFA500&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=wmoralesl&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+</p>
